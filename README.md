@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Patrick.
+### Hi there 👋 I'm Patrick. 🌟
 
-- :books: Undergraduate Student at Bandung Institute of Technology
+- 📚 Undergraduate Student at Bandung Institute of Technology  
 - 🌱 Keen on Data Science , Machine Learning , and Artificial Intelligence related-fields
 - 📫 patrickai0309@gmail.com 
 - ⚡ Python , C++ 
