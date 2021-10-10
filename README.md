@@ -15,6 +15,7 @@
 </p>
 
 ### Github Stats
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=patrickamadeus)](https://github.com/patrickamadeus) [![GitHub followers](https://img.shields.io/github/followers/patrickamadeus.svg?style=social&label=Follow)](https://github.com/patrickamadeus?tab=followers)
 <p><img src="https://github-readme-stats.vercel.app/api?username=patrickamadeus&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight" alt="GitHub Stats"></p>
 <!-- 
 ### Top Languages
