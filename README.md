@@ -13,10 +13,12 @@
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-3D3D3D?style=for-the-badge&logo=react&logoColor=88DDED" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=00758F" />
 </p>
 
 ### Github Stats
