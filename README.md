@@ -19,6 +19,7 @@
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/Go-29BEB0?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=00758F" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1572B6?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### Github Stats
