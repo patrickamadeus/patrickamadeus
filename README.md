@@ -2,7 +2,7 @@
 
 - 📚 Undergraduate Student at Bandung Institute of Technology  
 - 🌱 Keen on Data Science , Machine Learning , and Artificial Intelligence related-fields
-- 💻 Currently learning Backend Development
+- 💻 Currently learning Software Testing
 - 📫 patrickai0309@gmail.com 
 
 
