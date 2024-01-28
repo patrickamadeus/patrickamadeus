@@ -24,7 +24,7 @@
 ### Experience
 | Company | Position | Duration |
 | ------- | -------- | -------- |
-| Supertype.ai | Full-Stack Data Scientist | Jan 23 - Present |
+| Supertype.ai | Full-Stack Data Scientist | Jan 23 - Jul 23 |
 | Blibli  | Software Engineer in Test | Jun 22 - Dec 22 |
 | RuangGuru | Software Engineer (Backend) | Jan 22 - Apr 22 |
 | Wilov ID | Data Scientist | Jun 21 - Dec 21 |
