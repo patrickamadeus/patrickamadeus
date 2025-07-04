@@ -13,4 +13,4 @@
 
 ---
 
-📬 [Email me](mailto:patrickamadeusirawan@gmail.com) • 🌐 [Website](https://patrickamadeusirawan.github.io) • 📝 [Google Scholar](#) • 💼 [LinkedIn](#)
+📬 [Email me](mailto:patrickamadeusirawan@gmail.com) • 🌐 [Website](https://patrickamadeus.github.io) • 📝 [Google Scholar](https://scholar.google.com/citations?user=ne6qtJ0AAAAJ&hl=en&oi=sra) • 💼 [LinkedIn](https://www.linkedin.com/in/patrickamadeus/)
